@@ -41,7 +41,7 @@ export default function App(props) {
     <>
       {/* Website Head Paet And Meta Tags Container */}
       <Head>
-        <title>Moustapha&#39;s Portfolio • mmm066550</title>
+        <title>Mahad Mohamed&#39;s Portfolio • </title>
         <meta
           name="theme-color"
           content={theme === "dark" ? "#111119" : "#fff"}
@@ -49,15 +49,15 @@ export default function App(props) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="mmm066550 • I'm Moustapha Mahmoud, A Passionate Junior FullStack (MERN) Developer. Interested in ReactJs, NextJs, NodeJs, PostgresSQL and MongoDB, and this is my portfolio • mmm066550"
+          content=" • I'm Mahad Mohamed, A Software Developer. Interested in ReactJs, NextJs, NodeJs, PostgresSQL and MongoDB, and this is my portfolio • "
         />
         <meta
           name="keyword"
-          content="moustapha.me, moustapha, mahmoud, mmm066550, MERN, fullstack, nextjs, reactjs, nodejs, expressjs, mongodb, portfolio, javascript, developer"
+          content=" fullstack, nextjs, reactjs, nodejs, expressjs, mongodb, portfolio, javascript, developer"
         ></meta>
         <meta
           property="og:title"
-          content="Moustapha Mahmoud | MERN Stack Developer • NextJs | ReactJs | Typescript | NodeJs | ExpressJs | MongoDB | PostgresSQL"
+          content="Mahad Mohamed | Software Developer • NextJs | ReactJs | Typescript | NodeJs | ExpressJs | MongoDB | PostgresSQL"
         />
         <meta
           property="og:description"
