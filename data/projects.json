@@ -2,20 +2,16 @@
   
   {
     "index": 3,
-    "title": "Netflix React Clone",
+    "title": "Choose Figure Game",
     "tools": [
-      "ReactJs",
-      "Redux",
-      "Bootstrap",
-      "Sass",
-      "SwiperJs",
-      "TMDB",
-      "2embed"
+      "Swift",
+      "C",
+      "Objective-C"
     ],
-    "live_preview": "https://netflix-mmm066550.netlify.app",
-    "repo": "https://github.com/mmm-066550/Netflix_React_Clone",
+    "live_preview": "",
+    "repo": "https://github.com/mahad-mohamed/Choose-Figure-Game",
     "thubmnail": "/assets/images/projects/netflix.png",
-    "overview": "📽🍿 Netflix React Clone is a cloned single page application of Netflix website using ReactJS and ReduxJs for state management "
+    "overview": "📽🍿 An game developed using Swift and C language where you tap to keep the paper plane on the screen aflot and destroy falling sakura flowers to score points "
   }
   
   
